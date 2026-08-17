@@ -1,0 +1,17 @@
+{
+  "name": "PhysioQuest",
+  "short_name": "PhysioQuest",
+  "description": "Révision gamifiée du DEC Techniques de physiothérapie (144.A0).",
+  "lang": "fr-CA",
+  "start_url": "index.html",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#12211f",
+  "theme_color": "#0F8B8D",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
