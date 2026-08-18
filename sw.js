@@ -3,7 +3,7 @@
    Ensuite, l'app se lance sans réseau, exactement comme une app native.
    ⚠️ Bumper la version du CACHE à CHAQUE déploiement (physioquest-v1 -> v2 ...). */
 
-const CACHE = "physioquest-v2";
+const CACHE = "physioquest-v3";
 const ASSETS = [
   "index.html",
   "app.js",
